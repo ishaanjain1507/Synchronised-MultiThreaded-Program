@@ -19,6 +19,6 @@
 - Output will be in 'output.txt'
 
 ## To compile and run the Source Code
-- $ g++ Assgn3-Src-CO21BTECH11006.cpp
-- $ ./a.out
+- `$ g++ Assgn3-Src-CO21BTECH11006.cpp`
+- `$ ./a.out`
 
