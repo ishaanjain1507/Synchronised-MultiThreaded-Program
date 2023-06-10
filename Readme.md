@@ -1,6 +1,6 @@
 # Synchronised-MultiThreaded-Program
 
-##There are 3 files submitted as .zip:
+## There are 3 files submitted as .zip:
     - Assgn4-Src-CO21BTECH11006.cpp
     - Assgn4-Readme-CO21BTECH11006.txt
     - Assgn4-Report-CO21BTECH11006.pdf
